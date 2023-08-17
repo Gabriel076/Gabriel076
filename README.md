@@ -2,8 +2,8 @@
 
 <br>
 
-![Anurag´s GitHub status](https://github-readme-stats.vercel.app/api?username=Gabriel076&theme=blue-green)
-![Anurag´s GitHub status](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel076&theme=blue-green)
+![Anurag´s GitHub status]( https://github-readme-stats.vercel.app/api?username=Gabriel076&theme=radical)
+![Anurag´s GitHub status](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel076&theme=radical)
 
 ### Tecnologias que eu uso no meu dia:
 
